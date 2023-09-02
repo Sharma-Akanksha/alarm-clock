@@ -1,4 +1,4 @@
-![alarm](https://github.com/Sharma-Akanksha/alarm-clock/assets/36796481/b1b5362b-0e61-448a-aef0-e32f9ea8c0da)# alarm-clock
+# alarm-clock
 coding ninja project to create alarm clock
 
 🪧 Demo :- 
@@ -17,6 +17,6 @@ Nothing crazy just download the zip and run html file (double click on it).
 
 💻 Screenshot:
 
-![image](https://github.com/Sharma-Akanksha/alarm-clock/assets/36796481/17dd3d49-6b0c-4db9-b0fd-ae8975740aa9)
+![alarm](https://github.com/Sharma-Akanksha/alarm-clock/assets/36796481/b1b5362b-0e61-448a-aef0-e32f9ea8c0da)
 
 
