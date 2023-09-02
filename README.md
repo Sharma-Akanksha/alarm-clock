@@ -1,7 +1,7 @@
 # alarm-clock
 coding ninja project to create alarm clock
 
-🪧 Demo :- 
+🔴 Demo :- https://sharma-akanksha.github.io/alarm-clock/
 
 About the Project :-
 
