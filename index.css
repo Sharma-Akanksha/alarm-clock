@@ -127,6 +127,8 @@
     background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
     background-size: contain;
     color: transparent;
+    -moz-background-clip: text;
+    -webkit-background-clip: text;
     text-transform: uppercase;
     font-size: 140px;
     text-align: center;
